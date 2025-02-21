@@ -13,7 +13,6 @@ Este projeto é baseado no desafio "Criando um sistema de assistência virtual d
   - SpeechRecognition
   - pyttsx3
   - Outros
-   ```
 ## Como usar
 
 ### 1. Clone o repositório:
